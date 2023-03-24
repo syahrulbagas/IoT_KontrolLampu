@@ -1,2 +1,2 @@
-# IoT_KontrolLampu
-Membuat Kontrol Lampu Menggunakan ESP32 dan Blynk
+# IoT KontrolLampu
+Membuat Kontrol Lampu Menggunakan Wokwi Simulator dengan ESP32 dan Blynk
