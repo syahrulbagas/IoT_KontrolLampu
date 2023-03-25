@@ -17,6 +17,7 @@ Membuat Kontrol Lampu Menggunakan Wokwi Simulator dengan ESP32 dan Blynk
 
 # Run Wokwi
 Setelah semua di konfigurasi. Klik Start the Simulation
-dan ini hasilnya
+dan ini hasilnya.
+
 ![img](https://user-images.githubusercontent.com/71810571/227689750-a8a6efcb-c165-4fe1-ba91-2fa2e3b26a79.JPG)
 
